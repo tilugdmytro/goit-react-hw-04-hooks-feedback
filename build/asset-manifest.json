@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/goit-react-hw-04-hooks-feedback/static/css/main.9a5b92ea.chunk.css",
-    "main.js": "/goit-react-hw-04-hooks-feedback/static/js/main.fcbc0976.chunk.js",
-    "main.js.map": "/goit-react-hw-04-hooks-feedback/static/js/main.fcbc0976.chunk.js.map",
+    "main.js": "/goit-react-hw-04-hooks-feedback/static/js/main.df95860e.chunk.js",
+    "main.js.map": "/goit-react-hw-04-hooks-feedback/static/js/main.df95860e.chunk.js.map",
     "runtime-main.js": "/goit-react-hw-04-hooks-feedback/static/js/runtime-main.3518e52f.js",
     "runtime-main.js.map": "/goit-react-hw-04-hooks-feedback/static/js/runtime-main.3518e52f.js.map",
     "static/css/2.bc922b9c.chunk.css": "/goit-react-hw-04-hooks-feedback/static/css/2.bc922b9c.chunk.css",
-    "static/js/2.6204b3ba.chunk.js": "/goit-react-hw-04-hooks-feedback/static/js/2.6204b3ba.chunk.js",
-    "static/js/2.6204b3ba.chunk.js.map": "/goit-react-hw-04-hooks-feedback/static/js/2.6204b3ba.chunk.js.map",
+    "static/js/2.f2bf213d.chunk.js": "/goit-react-hw-04-hooks-feedback/static/js/2.f2bf213d.chunk.js",
+    "static/js/2.f2bf213d.chunk.js.map": "/goit-react-hw-04-hooks-feedback/static/js/2.f2bf213d.chunk.js.map",
     "index.html": "/goit-react-hw-04-hooks-feedback/index.html",
     "static/css/2.bc922b9c.chunk.css.map": "/goit-react-hw-04-hooks-feedback/static/css/2.bc922b9c.chunk.css.map",
     "static/css/main.9a5b92ea.chunk.css.map": "/goit-react-hw-04-hooks-feedback/static/css/main.9a5b92ea.chunk.css.map",
-    "static/js/2.6204b3ba.chunk.js.LICENSE.txt": "/goit-react-hw-04-hooks-feedback/static/js/2.6204b3ba.chunk.js.LICENSE.txt"
+    "static/js/2.f2bf213d.chunk.js.LICENSE.txt": "/goit-react-hw-04-hooks-feedback/static/js/2.f2bf213d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3518e52f.js",
     "static/css/2.bc922b9c.chunk.css",
-    "static/js/2.6204b3ba.chunk.js",
+    "static/js/2.f2bf213d.chunk.js",
     "static/css/main.9a5b92ea.chunk.css",
-    "static/js/main.fcbc0976.chunk.js"
+    "static/js/main.df95860e.chunk.js"
   ]
 }

@@ -18,7 +18,7 @@ function App() {
     Math.round((good / countTotalFeedback()) * 100);
   const positivePercentage = countPositiveFeedbackPercentage();
 
-  const handleClick = (option) => {
+  const onFeedbackClick = (option) => {
     switch (option) {
       case "good":
         setGood((prevState) => prevState + 1);
@@ -38,7 +38,7 @@ function App() {
   return (
     <div className="container">
       <Section title="Please leave feedback">
-        <FeedbackOptions options={keys} onFeedback={handleClick} />
+        <FeedbackOptions options={keys} onFeedback={onFeedbackClick} />
       </Section>
       <Section title="Statistics">
         {total ? (

@@ -1,0 +1,24 @@
+.feedbackList {
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+}
+
+.feedbackBtn {
+  width: 100px;
+  padding: 8px 15px;
+  border: 1px solid black;
+  border-radius: 5px;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.feedbackBtn:hover {
+  background-color: darkgray;
+}
+
+.feedbackBtn:not(:last-child) {
+  margin-right: 20px;
+}
